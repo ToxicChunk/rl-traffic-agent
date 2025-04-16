@@ -1,3 +1,6 @@
+# rl-traffic-agent
+Developed and trained a reinforcement learning model for real-world traffic, designed to minimize queue lengths and congestion using a custom Python simulation environment.
+
 # Traffic Light Optimization using Reinforcement Learning (PPO)
 
 This project uses Reinforcement Learning (specifically Proximal Policy Optimization, PPO) to train an agent to control a traffic light at a four-way intersection. The goal is to reduce vehicle queue lengths and prevent overflow by learning efficient switching strategies—without relying on external traffic simulation software like SUMO.
